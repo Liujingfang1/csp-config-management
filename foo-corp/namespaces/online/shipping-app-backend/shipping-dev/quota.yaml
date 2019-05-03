@@ -6,5 +6,5 @@ spec:
   hard:
     pods: "1"
     cpu: "100m"
-    memory: 150Mi
+    memory: 100Mi
 
